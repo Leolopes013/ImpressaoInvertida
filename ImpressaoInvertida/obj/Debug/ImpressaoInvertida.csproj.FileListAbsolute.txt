@@ -1,0 +1,7 @@
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\bin\Debug\ImpressaoInvertida.exe.config
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\bin\Debug\ImpressaoInvertida.exe
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\bin\Debug\ImpressaoInvertida.pdb
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\obj\Debug\ImpressaoInvertida.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\obj\Debug\ImpressaoInvertida.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\obj\Debug\ImpressaoInvertida.exe
+C:\Users\Lab_03_alu_18\Desktop\ImpressaoInvertida\ImpressaoInvertida\obj\Debug\ImpressaoInvertida.pdb
